@@ -1,0 +1,1 @@
+Just host this client with changing to correct IP and PORT, from [here.](https://github.com/Descrout/rust-multiplayer-physics/blob/8f3b0242cee4e36f8a417d3baab38314ded262f6/client/init.js#L1)
